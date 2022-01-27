@@ -1,0 +1,28 @@
+body
+{
+    background-color: aliceblue;
+}
+
+#right
+{
+    font-size: 15px;
+    float: left;
+    margin-left: 50px;
+}
+
+#timer
+{
+    font-size: 15px;
+    float: right;
+    margin-right: 50px;
+}
+
+#sketch
+{
+    color: teal;
+}
+
+canvas
+{
+    margin-top: 100px;
+}
